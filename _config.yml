@@ -2,8 +2,8 @@ title: Hello! I'm Lucas Barros
 description: > # this means to ignore newlines until "baseurl:. Put here a description for google results purpose"
   Lucas Barros's personal blog for software development, data science and telecomunications. 
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://lucasbarros.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
